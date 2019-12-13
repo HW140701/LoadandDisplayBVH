@@ -1,5 +1,6 @@
 # 1 项目
 加载和显示bvh动作文件
+![image](https://github.com/HW140701/LoadandDisplayBVH/blob/master/assest/example1.png)
 ![image](https://github.com/HW140701/LoadandDisplayBVH/blob/master/assest/example.gif)
 
 # 2 项目结构
