@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string.h>
 #include <math.h>
-#include <FreeGlut/glut.h>
+#include <GL/glut.h>
 
 #include "BVH.h"
 

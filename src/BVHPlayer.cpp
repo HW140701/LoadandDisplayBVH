@@ -3,7 +3,7 @@
 	#include <windows.h>
 #endif
 
-#include <FreeGlut/glut.h>
+#include <GL/glut.h>
 #include <stdio.h>
 #include "BVH.h"
 
