@@ -53,6 +53,6 @@ third/freeglut:OpenGL库freeglut文件目录；
 	}
 
 # 4 联系我
-我的个人网站：[www.stubbornhuang.com](www.stubbornhuang.com "www.stubbornhuang.com")
-我的个人博客：[https://blog.csdn.net/hw140701](https://blog.csdn.net/hw140701 "https://blog.csdn.net/hw140701")
-我的邮箱：stubbornhuang@qq.com
+- 我的个人网站：[www.stubbornhuang.com](www.stubbornhuang.com "www.stubbornhuang.com")
+- 我的个人博客：[https://blog.csdn.net/hw140701](https://blog.csdn.net/hw140701 "https://blog.csdn.net/hw140701")
+- 我的邮箱：stubbornhuang@qq.com
