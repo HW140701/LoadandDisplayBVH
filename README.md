@@ -4,10 +4,10 @@
 ![image](https://github.com/HW140701/LoadandDisplayBVH/blob/master/assest/example.gif)
 
 # 2 项目结构
-bin:可执行文件目录；
-projectfile:visual studio 2015工程文件目录；
-src:源码文件目录；
-third/freeglut:OpenGL库freeglut文件目录；
+- bin:可执行文件目录；
+- projectfile:visual studio 2015工程文件目录；
+- src:源码文件目录；
+- third/freeglut:OpenGL库freeglut文件目录；
 
 可直接使用visual studio打开projectfile目录中的项目文件，编译运行即可。如果使用其他C++编译器，需根据freeglut目录自行设置好第三方库的包含目录以及链接目录，同时预定义WIN32，_CRT_SECURE_NO_WARNINGS。
 
